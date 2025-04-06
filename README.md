@@ -10,4 +10,4 @@ Generated data currently includes:
 
 To be added in future:
 - weekly data with week numbers.
-- information per day that is not under licensing and can be distributed for free..
+- information per day that is not under licensing and can be distributed for free.
